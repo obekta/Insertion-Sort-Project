@@ -22,7 +22,7 @@ O(n^2) => Big-O notation
 
 ### Average case: Aradığımız sayının ortada olması
 ### Worst case: Aradığımız sayının sonda olması
-### Best case: Aradığımız sayının dizinin en başında olması.*
+### Best case: Aradığımız sayının dizinin en başında olması.
 
 Sıralandıktan sonra dizi: [2,6,16,18,22,27]
 
